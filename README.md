@@ -1,6 +1,8 @@
 <!-- ### K4YT3X -->
 
-![K4YT3X](https://user-images.githubusercontent.com/21986859/87365064-caeaac00-c564-11ea-947a-6462852ed23a.png)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/21986859/87365380-97f4e800-c565-11ea-9d32-1fc8ce7057f4.png" alt="K4YT3X"/>
+</p>
 
 **「所谓的正确会随着人们的意志而变化无常」**
 
