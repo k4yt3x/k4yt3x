@@ -7,6 +7,7 @@
 
 ***Junior Information Security Analyst*** | ***White Hat Hacker*** | ***Python/Golang Developer***
 
+- About: https://k4t.io/a
 - Blog: https://k4yt3x.com
 - Telegram: [@k4yt3x](http://t.me/k4yt3x)
 - Email: [k4yt3x@k4yt3x.com](mailto:k4yt3x@k4yt3x.com) (PGP: 256E/B54579F4)
