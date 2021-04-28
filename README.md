@@ -2,7 +2,7 @@
 <!-- **「所谓的正确会随着人们的意志而变化无常」** -->
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/21986859/106233384-56204c00-61ee-11eb-8de1-66c658c8c5fc.png" alt="K4YT3X"/>
+   <img src="https://user-images.githubusercontent.com/21986859/116339774-8ebfc980-a7cd-11eb-8626-da5757326236.png" alt="K4YT3X"/>
 </p>
 
 ***Junior Information Security Analyst*** | ***White Hat Hacker*** | ***Python/Golang Developer***
