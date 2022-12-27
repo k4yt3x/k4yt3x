@@ -1,14 +1,9 @@
-<!-- ### K4YT3X -->
-<!-- **「所谓的正确会随着人们的意志而变化无常」** -->
+**「所謂的正確之物會隨人們各自的意志而遷移無常」**
 
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/21986859/116339774-8ebfc980-a7cd-11eb-8626-da5757326236.png" alt="K4YT3X"/>
-</p>
-
-***Junior Information Security Analyst*** | ***White Hat Hacker*** | ***Python/Rust/Golang Developer***
+**_Security Researcher_** | **_Rust/Python/Golang Developer_**
 
 - About: https://k4t.io/a
 - Blog: https://k4yt3x.com
 - Telegram: [@k4yt3x](http://t.me/k4yt3x)
-- Email: [i@k4yt3x.com](mailto:i@k4yt3x.com)
+- Email: [github@k4yt3x.com](mailto:i@k4yt3x.com)
 - Matrix: `@k4yt3x:matrix.evnk.io`
