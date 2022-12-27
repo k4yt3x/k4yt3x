@@ -1,7 +1,7 @@
 <div class="markdown-body container-lg">
   <p dir="auto" align="center">
-    <strong><em>Security Researcher</em></strong> |
-    <strong><em>Rust/Python/Golang Developer</em></strong>
+    <strong>Security Researcher</strong> |
+    <strong>Rust/Python/Golang Developer</strong>
   </p>
   <p dir="auto" align="center">
     <a href="https://k4t.io/a" rel="nofollow">About</a> |
