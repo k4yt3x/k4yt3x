@@ -1,5 +1,3 @@
-**「所謂的正確之物會隨人們各自的意志而遷移無常」**
-
 **_Security Researcher_** | **_Rust/Python/Golang Developer_**
 
 - About: https://k4t.io/a
