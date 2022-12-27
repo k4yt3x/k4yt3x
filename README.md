@@ -1,8 +1,5 @@
 <div class="markdown-body container-lg">
-  <p dir="auto" align="center">
-    <strong>Security Researcher</strong> |
-    <strong>Rust/Python/Golang Developer</strong>
-  </p>
+  <h3 align="center">Security Researcher | Rust/Python/Golang Developer</h3>
   <p dir="auto" align="center">
     <a href="https://k4t.io/a" rel="nofollow">About</a> |
     <a href="https://k4yt3x.com" rel="nofollow">Blog</a> |
