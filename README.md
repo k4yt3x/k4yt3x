@@ -1,6 +1,6 @@
 <div class="markdown-body container-lg">
   <p dir="auto" align="center">
-    <font size="+5">Security Researcher | Web3 Security Auditor | Reverse Engineer | Developer</font>
+    <font size="+5">Security Researcher | Smart Contract Auditor | Reverse Engineer | Developer</font>
   </p>
   <p dir="auto" align="center">
     <a href="https://k4yt3x.com/about/" rel="nofollow">About</a> |
